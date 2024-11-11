@@ -11,4 +11,5 @@ datasets/: This directory contains the dataset files used in this analysis.
 
 ## Results
 Titanic - Submission 6 was the best prediction, scoring 0.73205.
-Spaceship Titanic - The XGBoost-model was the best prediction, scoring 
+
+Spaceship Titanic - The XGBoost-model was the best prediction, scoring 0.81. 
